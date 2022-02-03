@@ -1,5 +1,4 @@
-FROM        debian:jessie
-MAINTAINER  Kotaimen <kotaimen.c@gmail.com>
+FROM        debian:stable
 
 ENV         DEBIAN_FRONTEND noninteractive
 
